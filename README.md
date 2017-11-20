@@ -14,9 +14,9 @@ This step allows me to find my project on my computer then change directory into
 ### 3. Git status
 Displays the status of the files (modified, staged, ect).
 
-### Git commit - m "message"
+### 4. Git commit - m "message"
 Commits the snapshot to the history of my work. After the "m" I can type a message between quotations. 
 
-### Git push
+### 5. Git push
 Pushes all of the work I've added or modified to the repository on github so that they're not just local. 
 
